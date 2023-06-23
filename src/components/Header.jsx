@@ -10,7 +10,7 @@ const Header = () => {
             </div>
 
             <h2>Menos Conversinha,</h2>
-            <h1>Mais Conversão</h1>
+            <h1>Mais Conversão <img src="/asset-header.png" alt="asset-header" /></h1>
 
             <hr />
 
@@ -56,6 +56,17 @@ const HeaderComponents = styled.div`
 
         @media (max-width: 768px) {
             font-size: 4rem;
+        }
+
+        img {
+            margin-left: -3rem;
+            padding-bottom: 3.5rem;
+
+            @media (max-width: 768px) {
+                margin-left: -1.8rem;
+                padding-bottom: 2rem;
+                width: 7%;
+            }
         }
     }
 
