@@ -1,4 +1,5 @@
 ## Decisões que foram tomadas
+- Decidi manter o styled junto ao componente, usualmente eu separo em um arquivo de estilos, mas como o projeto é apenas uma landing page, optei por não separar, facilitando a manutenção dos componentes individualmente.
 
 ## Como eu organizei o projeto
 
