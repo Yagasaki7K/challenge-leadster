@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: PlusJakartaSans-VariableFont_wght;
-    src: url(@/fonts/PlusJakartaSans-VariableFont_wght.ttf);
+    src: url('../fonts/PlusJakartaSans-VariableFont_wght.ttf');
 }
 
 html,
